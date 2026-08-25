@@ -1,4 +1,4 @@
 # dummy
 
-Newly cleaned
+A new line
 
